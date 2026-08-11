@@ -21,17 +21,13 @@ Aplikasi ini dibangun untuk menggantikan proses pencatatan manual warga yang mem
 
 ## 📸 Tangkapan Layar Aplikasi (Showcase)
 
-| Halaman Login | Input Kredensial | Dashboard Statistik |
+| Halaman Login | Dashboard Utama | Scan KK (AI Extraction) |
 |:---:|:---:|:---:|
-| ![Login](screenshot_aplikasi_android/raw/01_halaman_login.png) | ![Kredensial](screenshot_aplikasi_android/raw/02_input_kredensial.png) | ![Dashboard](screenshot_aplikasi_android/raw/03_dashboard_statistik.png) |
+| ![Login](screenshot_aplikasi_android/raw/01_halaman_login.png) | ![Dashboard](screenshot_aplikasi_android/raw/02_dashboard_statistik.png) | ![Scan KK AI](screenshot_aplikasi_android/raw/04_scan_kk_ai.jpeg) |
 
-| Sidebar Navigasi | Scan KK (AI Extraction) | Rekapitulasi Laporan |
+| Rekapitulasi Laporan | Grafik Demografi | Hak Akses & Pengguna |
 |:---:|:---:|:---:|
-| ![Sidebar](screenshot_aplikasi_android/raw/04_sidebar_navigasi.png) | ![Scan KK AI](screenshot_aplikasi_android/raw/05_scan_kk_ai.jpeg) | ![Rekapitulasi](screenshot_aplikasi_android/raw/06_rekapitulasi_laporan.png) |
-
-| Grafik Demografi | Hak Akses & Pengguna | Ekstraksi AI |
-|:---:|:---:|:---:|
-| ![Visualisasi Grafik](screenshot_aplikasi_android/raw/07_visualisasi_grafik.jpeg) | ![Hak Akses](screenshot_aplikasi_android/raw/08_manajemen_pengguna.png) | ![Scan KK Detail](screenshot_aplikasi_android/raw/09_scan_kk_detail.png) |
+| ![Rekapitulasi](screenshot_aplikasi_android/raw/05_rekapitulasi_laporan.png) | ![Visualisasi Grafik](screenshot_aplikasi_android/raw/06_visualisasi_grafik.jpeg) | ![Hak Akses](screenshot_aplikasi_android/raw/07_manajemen_pengguna.png) |
 
 ---
 
