@@ -11,11 +11,11 @@
 
 ## 📌 Tentang Proyek
 
-**Warnasari Data** adalah platform digital komprehensif yang dikembangkan dalam rangka **Program KKN (Kuliah Kerja Nyata)** untuk mendukung digitalisasi administrasi kependudukan di tingkat dusun/desa.
+**Warnasari Data** adalah platform digital komprehensif yang dikembangkan dalam rangka **Program KKN (Kuliah Kerja Nyata) KKN 06 Desa Warnasari Ikopin University** untuk mendukung digitalisasi administrasi kependudukan di tingkat dusun/desa.
 
 Aplikasi ini dibangun untuk menggantikan proses pencatatan manual warga yang memakan waktu dan rawan kesalahan, dengan solusi digital yang terintegrasi, efisien, dan mudah digunakan oleh perangkat desa.
 
-> **Konteks:** Digunakan aktif oleh petugas RT/RW di Dusun Warnasari untuk pengelolaan data kependudukan secara digital dan terpusat.
+> **Konteks:** Digunakan aktif oleh petugas RT/RW di Dusun 1 Warnasari untuk pengelolaan data kependudukan secara digital dan terpusat oleh tim **KKN 06 Desa Warnasari Ikopin University**.
 
 ---
 
@@ -98,4 +98,5 @@ flutter run
 
 ## 📝 Lisensi & Hak Cipta
 
-© 2024 **RafazaTech**. Dikembangkan untuk mendukung digitalisasi dan administrasi pendataan warga dusun secara transparan dan efisien.
+© 2024 **RafazaTech** • **KKN 06 Desa Warnasari Ikopin University**.  
+Dikembangkan untuk mendukung digitalisasi dan administrasi pendataan warga dusun secara transparan dan efisien.
