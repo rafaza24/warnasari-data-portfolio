@@ -98,5 +98,5 @@ flutter run
 
 ## 📝 Lisensi & Hak Cipta
 
-© 2024 **RafazaTech** • **KKN 06 Desa Warnasari Ikopin University**.  
+© 2026 **RafazaTech** • **KKN 06 Desa Warnasari Ikopin University**.  
 Dikembangkan untuk mendukung digitalisasi dan administrasi pendataan warga dusun secara transparan dan efisien.
