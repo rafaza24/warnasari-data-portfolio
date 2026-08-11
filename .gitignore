@@ -1,0 +1,33 @@
+# Build & Binary Outputs (Bisa bikin repo terlalu berat)
+*.apk
+*.mp4
+build_output/
+video_temp/
+aesthetic_temp/
+
+# Node.js & Dependencies
+node_modules/
+npm-debug.log
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+env/
+
+# Flutter & Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-deps
+.pub/
+build/
+
+# IDE & OS Files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
